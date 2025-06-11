@@ -1,0 +1,9 @@
+{
+	"name": "adf-cars-yash",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c7fb79a-b4ca-43b6-99d2-4a9f3079b8ed",
+		"tenantId": "9b4f9928-5dce-4dfa-a409-b5251e149f88"
+	}
+}
