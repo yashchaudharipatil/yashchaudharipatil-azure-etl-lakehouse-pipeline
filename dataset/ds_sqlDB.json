@@ -6,7 +6,7 @@
 			"type": "LinkedServiceReference"
 		},
 		"parameters": {
-			"table_name": {
+			"Table_name": {
 				"type": "string"
 			}
 		},
@@ -50,7 +50,7 @@
 				"precision": 10
 			},
 			{
-				"name": "BranjchName",
+				"name": "BranchName",
 				"type": "varchar"
 			},
 			{
@@ -61,10 +61,9 @@
 		"typeProperties": {
 			"schema": "dbo",
 			"table": {
-				"value": "@dataset().table_name",
+				"value": "@dataset().Table_name",
 				"type": "Expression"
 			}
 		}
-	},
-	"type": "Microsoft.DataFactory/factories/datasets"
+	}
 }
