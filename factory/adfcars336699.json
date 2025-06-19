@@ -1,0 +1,9 @@
+{
+	"name": "adfcars336699",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c4e76535-e8b3-4f86-81b7-1b3cbf1adde0",
+		"tenantId": "9b4f9928-5dce-4dfa-a409-b5251e149f88"
+	}
+}
